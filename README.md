@@ -1,0 +1,1 @@
+# -Prediction-of-the-Oblique-Shock-Wave-Angle-using-Artificial-Neural-Network
